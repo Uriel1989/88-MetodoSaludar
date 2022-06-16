@@ -1,0 +1,16 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\bin\Debug\net5.0\88-MetodoSaludar.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\bin\Debug\net5.0\88-MetodoSaludar.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\bin\Debug\net5.0\88-MetodoSaludar.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\bin\Debug\net5.0\88-MetodoSaludar.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\bin\Debug\net5.0\88-MetodoSaludar.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\bin\Debug\net5.0\ref\88-MetodoSaludar.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\bin\Debug\net5.0\88-MetodoSaludar.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\obj\Debug\net5.0\88-MetodoSaludar.csproj.AssemblyReference.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\obj\Debug\net5.0\88-MetodoSaludar.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\obj\Debug\net5.0\88-MetodoSaludar.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\obj\Debug\net5.0\88-MetodoSaludar.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\obj\Debug\net5.0\88-MetodoSaludar.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\obj\Debug\net5.0\88-MetodoSaludar.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\obj\Debug\net5.0\ref\88-MetodoSaludar.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\obj\Debug\net5.0\88-MetodoSaludar.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\88-MetodoSaludar\obj\Debug\net5.0\88-MetodoSaludar.genruntimeconfig.cache
